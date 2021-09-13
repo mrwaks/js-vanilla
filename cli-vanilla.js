@@ -34,7 +34,7 @@ let schemaFolderToRequire;
 let schemaFolderToCustom = readFileSync(__dirname + '/data-json/schemaFolder.json', 'utf-8');
 let schemaFolderCustomized;
 
-prompt.message = 'js-vanilla';
+prompt.message = 'vanilla-cone';
 
 prompt.start();
 

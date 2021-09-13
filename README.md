@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width="420" src="media/logo-js-vanilla.png" alt="Chalk">
+<img width="420" src="media/logo-vanilla-cone.png" alt="Chalk">
 </h1>
 
 <h1 align="center">VANILLA-CONE</h1>
@@ -9,7 +9,7 @@
 <p>
 
 <p align="center">
-    <a href="https://github.com/mrwaks/js-vanilla/blob/main/license" target="_blank">
+    <a href="https://github.com/mrwaks/vanilla-cone/blob/main/license" target="_blank">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Labo-cli is released under the MIT license." />
     </a>
     <a href="https://www.npmjs.com/package/vanilla-cone" target="_blank">
@@ -42,9 +42,9 @@
 
 <h1 id="installation">👷 Installation</h1>
 
-<p>To install js-vanilla, run this command line in your terminal:</p>
+<p>To install vanilla-cone, run this command line in your terminal:</p>
 
-    npm install js-vanilla -g
+    npm install vanilla-cone -g
 
 <h1 id="usage">🎓 Usage</h1>
 
@@ -55,10 +55,10 @@
 <p>Then answer the questionnaire to personalize your ice cream:
    Example:</p>
 
-    js-vanilla: Folder name ?:  (vanilla-1) Shop
-    js-vanilla: What name do you want to give to your .html file ?:  (index) cart
-    js-vanilla: What name do you want to give to your .css file ?:  (styles) css-styles
-    js-vanilla: What name do you want to give to your .js file ?:  (main) js-main
+    vanilla-cone: Folder name ?:  (vanilla-1) Shop
+    vanilla-cone: What name do you want to give to your .html file ?:  (index) cart
+    vanilla-cone: What name do you want to give to your .css file ?:  (styles) css-styles
+    vanilla-cone: What name do you want to give to your .js file ?:  (main) js-main
 
 <p>If you do not answer, the values in brackets will be taken by default.</p>
 
@@ -72,13 +72,13 @@
 
 <p>Whether you want to help fix bugs, improve the documentation or spread the word, it will be a pleasure to taste this vanilla ice cream together. 💪 🍦 ❤️</p>
 
-<p>Do not hesitate to take a look at the <a href="https://github.com/mrwaks/js-vanilla" target="_blank">github repository of js-vanilla</a>.</p>
+<p>Do not hesitate to take a look at the <a href="https://github.com/mrwaks/vanilla-cone" target="_blank">github repository of vanilla-cone</a>.</p>
 
 <p>For any questions or suggestions do not hesitate to write to<a href="mailto: rudy.waks@gmail.com"> rudy.waks@gmail.com</a>.</p>
 
 <h1 id="license">📝 License</h1>
 
-<p>Licensed under <a href="https://github.com/mrwaks/js-vanilla/blob/main/license" target="_blank">the MIT License</a>.</p>
+<p>Licensed under <a href="https://github.com/mrwaks/vanilla-cone/blob/main/license" target="_blank">the MIT License</a>.</p>
 
 <h1 id="thanks">❤️ 😋 Thanks and bon appetit !</h1>
 
