@@ -9,7 +9,7 @@
 <p>
 
 <p align="center">
-    <a href="" target="_blank">
+    <a href="https://github.com/mrwaks/js-vanilla/blob/main/license" target="_blank">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Labo-cli is released under the MIT license." />
     </a>
     <a href="https://www.npmjs.com/package/js-vanilla" target="_blank">
@@ -72,13 +72,13 @@
 
 <p>Whether you want to help fix bugs, improve the documentation or spread the word, it will be a pleasure to taste this vanilla ice cream together. 💪 🍦 ❤️</p>
 
-<p>Do not hesitate to take a look at the <a href="" target="_blank">github repository of js-vanilla</a>.</p>
+<p>Do not hesitate to take a look at the <a href="https://github.com/mrwaks/js-vanilla" target="_blank">github repository of js-vanilla</a>.</p>
 
 <p>For any questions or suggestions do not hesitate to write to<a href="mailto: rudy.waks@gmail.com"> rudy.waks@gmail.com</a>.</p>
 
 <h1 id="license">📝 License</h1>
 
-<p>Licensed under <a href="" target="_blank">the MIT License</a>.</p>
+<p>Licensed under <a href="https://github.com/mrwaks/js-vanilla/blob/main/license" target="_blank">the MIT License</a>.</p>
 
 <h1 id="thanks">❤️ 😋 Thanks and bon appetit !</h1>
 
