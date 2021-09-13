@@ -1,0 +1,16 @@
+{
+    "properties": {
+        "html": {
+            "description": "What name do you want to give to your .html file ?",
+            "default": "index"
+        },
+        "css": {
+            "description": "What name do you want to give to your .css file ?",
+            "default": "styles"
+        },
+        "js": {
+            "description": "What name do you want to give to your .js file ?",
+            "default": "main"
+        }
+    }
+}

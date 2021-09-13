@@ -1,0 +1,8 @@
+{
+    "properties": {
+        "folder": {
+            "description": "Folder name ?",
+            "default": "vanilla-1"
+        }
+    }
+}
