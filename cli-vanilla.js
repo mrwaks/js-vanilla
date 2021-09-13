@@ -62,7 +62,7 @@ const generateVanilla = ([, , ...args] = process.argv) => {
                 schemaFolderCustomized = schemaFolderToCustom.replace(/(?<="default": ")[\w\S\d]+(?=")/, 'vanilla-1');
                 writeFileSync(__dirname + '/data-json/schemaFolder.json', schemaFolderCustomized);
                 schemaFolderToRequire = require('./data-json/schemaFolder.json');
-                promptAndCreateVanilla(schemaFolderToRequire);
+                promptAndCreateVanilla(schemaFolderToRequire, generateVanilla);
             }
         }
     } else if (args.length === 1 && args[0] === '-y') {
