@@ -1,15 +1,28 @@
 {
-  "name": "js-vanilla",
+  "name": "vanilla-cone",
   "version": "1.0.0",
   "description": "",
   "main": "cli-vanilla.js",
   "bin": {
     "vanilla": "./cli-vanilla.js"
   },
+  "keywords": [
+    "cli",
+    "terminal",
+    "vanilla",
+    "html",
+    "css",
+    "js",
+    "javascript",
+    "ice-cream"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrwaks/js-vanilla.git"
+  },
   "author": "",
   "license": "ISC",
   "type": "module",

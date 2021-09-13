@@ -2,7 +2,7 @@
 <img width="420" src="media/logo-js-vanilla.png" alt="Chalk">
 </h1>
 
-<h1 align="center">JS-VANILLA</h1>
+<h1 align="center">VANILLA-CONE</h1>
 
 <p align="center">
 😋 🍦 🚀
@@ -12,15 +12,15 @@
     <a href="https://github.com/mrwaks/js-vanilla/blob/main/license" target="_blank">
         <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Labo-cli is released under the MIT license." />
     </a>
-    <a href="https://www.npmjs.com/package/js-vanilla" target="_blank">
-        <img src="https://img.shields.io/npm/v/js-vanilla.svg" alt="Current npm package version." />
+    <a href="https://www.npmjs.com/package/vanilla-cone" target="_blank">
+        <img src="https://img.shields.io/npm/v/vanilla-cone.svg" alt="Current npm package version." />
     </a>
     <a href="https://www.youtube.com/watch?v=LnqS6BnskIE" target="_blank">
         <img src="https://img.shields.io/badge/vanilla quality-certified-yellow" alt="Current npm package version." />
     </a>
 <p>
 
-<p align="center"><strong>Js-vanilla allows you to create a javascript vanilla folder which contains .html, .css and .js file with the href link and the src script already filled !</strong></p>
+<p align="center"><strong>Vanilla-cone allows you to create a javascript vanilla folder which contains .html, .css and .js file with the href link and the src script already filled !</strong></p>
 
 <p align="center">🤔 I imagine that like me you are lazy and you like things to be done in a finger snap.</p>
 
