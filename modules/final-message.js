@@ -17,7 +17,7 @@ export const finalMessage = (folderName) => {
     console.log(`- A ${'main.js'.bold} file.`.cyan);
     console.log(`${EOL}* A ${'<link>'.bold} tag was linked to styles.css in the index.html file.`.magenta);
     console.log(`* A ${'<script></script>'.bold} tag was linked to main.js in the index.html file.`.magenta);
-    console.log(`${EOL}js-vanilla wishes you good luck in the development of your website ! 🤩 ❤️\n`.bold.yellow);
+    console.log(`${EOL}Good tasting, don't forget to take a spoon and a napkin 🥄 🍦 😋${EOL}`.bold.yellow);
 }
 
 export const finalMessageCustom = (folderName, htmlName, cssName, jsName) => {
@@ -33,5 +33,5 @@ export const finalMessageCustom = (folderName, htmlName, cssName, jsName) => {
     console.log(`- A ${jsName.bold}${'.js'.bold} file.`.cyan);
     console.log(`${EOL}* A ${'<link>'.bold} tag was linked to ${cssName.bold}${'.css'.bold} in the ${htmlName.bold}${'.html'.bold} file.`.magenta);
     console.log(`* A ${'<script></script>'.bold} tag was linked to ${jsName.bold}${'.js'.bold} in the ${htmlName.bold}${'.html'.bold} file.`.magenta);
-    console.log(`${EOL}The webstatic team wishes you good luck in the development of your website ! 🤩 ❤️\n`.bold.yellow);
+    console.log(`${EOL}Good tasting, don't forget to take a spoon and a napkin 🥄 🍦 😋${EOL}`.bold.yellow);
 }
