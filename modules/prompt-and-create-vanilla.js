@@ -2,20 +2,10 @@
 
 import colors from 'colors';
 import prompt from 'prompt';
-import {
-    writeFileSync,
-    mkdirSync,
-    existsSync,
-} from 'fs';
-import {
-    finalMessageCustom
-} from './final-message.js';
-import {
-    EOL
-} from 'os';
-import {
-    createRequire
-} from 'module';
+import { writeFileSync, mkdirSync, existsSync } from 'fs';
+import { finalMessageCustom } from './final-message.js';
+import { EOL } from 'os';
+import { createRequire } from 'module';
 const require = createRequire(import.meta.url);
 
 const schemaFile = require('../data-json/schemaFile.json');

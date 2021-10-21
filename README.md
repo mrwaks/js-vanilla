@@ -32,6 +32,10 @@
 
 <br>
 
+<p align="center" style="font-weight:bold;">⚠️ COMPATIBLE ONLY WITH NODE v13.2.0 AND LATER ⚠️</p>
+
+<br>
+
 <h1>What’s In This Document</h1>
 
 - <a href="#installation">Installation</a>
@@ -42,6 +46,7 @@
 
 <h1 id="installation">👷 Installation</h1>
 
+<p style="font-weight:bold;">The installation of this module can only be done globally.</p>
 <p>To install vanilla-cone, run this command line in your terminal:</p>
 
     npm install vanilla-cone -g

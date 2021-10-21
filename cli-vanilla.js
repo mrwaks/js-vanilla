@@ -4,24 +4,11 @@
 
 import colors from 'colors';
 import prompt from 'prompt';
-import {
-    finalMessage
-} from './modules/final-message.js';
-import {
-    promptAndCreateVanilla
-} from './modules/prompt-and-create-vanilla.js';
-import {
-    createRequire
-} from 'module';
-const require = createRequire(
-    import.meta.url);
-import {
-    writeFileSync,
-    mkdirSync,
-    existsSync,
-    readFileSync,
-    readdirSync,
-} from 'fs';
+import { finalMessage } from './modules/final-message.js';
+import { promptAndCreateVanilla } from './modules/prompt-and-create-vanilla.js';
+import { createRequire } from 'module';
+const require = createRequire( import.meta.url );
+import { writeFileSync, mkdirSync, existsSync, readFileSync, readdirSync } from 'fs';
 import { dirname }  from 'path';
 import { fileURLToPath } from 'url';
 
