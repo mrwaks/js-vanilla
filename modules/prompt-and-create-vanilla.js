@@ -11,7 +11,7 @@ const require = createRequire(import.meta.url);
 const schemaFile = require('../data-json/schemaFile.json');
 
 const vanilla = require('../data-json/vanilla.json');
-const dataHTML = vanilla.html.split(EOL);
+const dataHTML = vanilla.html.split('\n');
 const dataJS = vanilla.js;
 const dataCSS = vanilla.css;
 
@@ -60,7 +60,7 @@ export function promptAndCreateVanilla(schemaFolder, recursiveFunction) {
                 dataHTML.splice(index, 1, newJsScript);
                 dataProcessed.pop();
 
-                writeFileSync(`./${resFolder()}/${res.html}.html`, dataHTML.join(EOL));
+                writeFileSync(`./${resFolder()}/${res.html}.html`, dataHTML.join('\n'));
                 writeFileSync(`./${resFolder()}/${res.css}.css`, dataCSS);
                 writeFileSync(`./${resFolder()}/${res.js}.js`, dataJS);
 
