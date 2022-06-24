@@ -1,10 +1,13 @@
 {
   "name": "vanilla-cone",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Vanilla-cone allows you to create a javascript vanilla folder which contains .html, .css and .js file with the href link and the src script already filled !",
   "main": "cli-vanilla.js",
+  "engines": {
+    "node": ">=15.0.0"
+  },
   "bin": {
-    "vanilla": "./cli-vanilla.js"
+    "vanilla": "./src/main.js"
   },
   "keywords": [
     "cli",
@@ -14,18 +17,19 @@
     "css",
     "js",
     "javascript",
-    "ice-cream"
+    "ice-cream",
+    "cone"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/mrwaks/vanilla-cone.git"
   },
-  "author": "",
+  "author": "mrwaks",
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "boxen": "^5.0.1",
-    "colors": "^1.4.0",
-    "prompt": "^1.1.0"
+    "boxen": "^7.0.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.0.0"
   }
 }

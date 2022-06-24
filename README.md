@@ -32,14 +32,11 @@
 
 <br>
 
-<p align="center" style="font-weight:bold;">⚠️ COMPATIBLE ONLY WITH NODE v13.2.0 AND LATER ⚠️</p>
-
-<br>
-
 <h1>What’s In This Document</h1>
 
 - <a href="#installation">Installation</a>
 - <a href="#usage">Usage</a>
+- <a href="#options">Options</a>
 - <a href="#contribute">How to Contribute</a>
 - <a href="#license">License</a>
 - <a href="#thanks">Thanks</a>
@@ -65,13 +62,12 @@
     vanilla-cone: What name do you want to give to your .css file ?:  (styles) css-styles
     vanilla-cone: What name do you want to give to your .js file ?:  (main) js-main
 
-<p>If you do not answer, the values in brackets will be taken by default.</p>
+<h1 id="options">🤝 Options</h1>
 
-<br>
-
-<p>Run this command in your terminal if you don't want to personalize your ice cream and receive vanilla ice cream by default 🍦</p>
-
-    vanilla -y
+    -y, --yes        if you don't want to personalize your ice cream and receive vanilla ice cream by default 🍦
+    -c, --code       Open the template with vscode (Only if you have installed the 'code' cli of vscode)
+    -v, --version    Display vanilla-cone version information
+    -h, --help       Display vanilla-cone help
 
 <h1 id="contribute">🤝 How to Contribute</h1>
 
