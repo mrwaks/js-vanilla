@@ -34,12 +34,19 @@
 
 <h1>What’s In This Document</h1>
 
+- <a href="#npx">Npx</a>
 - <a href="#installation">Installation</a>
 - <a href="#usage">Usage</a>
 - <a href="#options">Options</a>
 - <a href="#contribute">How to Contribute</a>
 - <a href="#license">License</a>
 - <a href="#thanks">Thanks</a>
+
+<h1 id="npx">🪄 Npx integrate</h1>
+
+<p>It's possible to not download the package by directly running:</p>
+
+    npx vanilla-cone
 
 <h1 id="installation">👷 Installation</h1>
 
@@ -62,7 +69,7 @@
     vanilla-cone: What name do you want to give to your .css file ?:  (styles) css-styles
     vanilla-cone: What name do you want to give to your .js file ?:  (main) js-main
 
-<h1 id="options">🤝 Options</h1>
+<h1 id="options">🔩 Options</h1>
 
     -y, --yes        if you don't want to personalize your ice cream and receive vanilla ice cream by default 🍦
     -c, --code       Open the template with vscode (Only if you have installed the 'code' cli of vscode)
