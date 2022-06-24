@@ -1,6 +1,6 @@
 {
   "name": "vanilla-cone",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "Vanilla-cone allows you to create a javascript vanilla folder which contains .html, .css and .js file with the href link and the src script already filled !",
   "main": "cli-vanilla.js",
   "engines": {

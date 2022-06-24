@@ -33,13 +33,13 @@ const constants = {
     version: () => {
         figlet("vanilla-cone", (err, res) => {
             if (err) {
-                console.log("V1.0.9");
+                console.log("V1.1.0");
                 return;
             }
             // Logo
             const logo = `\x1b[1m${rainbow(res)}\x1b[0m`;
             // Version
-            const version = "Version: 1.0.9";
+            const version = "Version: 1.1.0";
             // Informations
             const github = "Github: https://github.com/mrwaks/vanilla-cone";
             const goodIceCream = "Good Ice Cream: https://www.youtube.com/watch?v=LnqS6BnskIE";
